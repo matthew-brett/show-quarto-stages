@@ -1,0 +1,10 @@
+---
+title: "Filtered page that should have note"
+---
+
+## My header
+
+::: {.callout-marker}
+:::
+
+See @nte-my-marker.

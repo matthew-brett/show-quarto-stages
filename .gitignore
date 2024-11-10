@@ -1,0 +1,12 @@
+*~
+*.swp
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.orig
+~*
+*.html
+*_files/
+/.quarto/
+*.md

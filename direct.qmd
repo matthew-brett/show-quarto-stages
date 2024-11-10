@@ -1,0 +1,11 @@
+---
+title: Direct page with note
+---
+
+## My header
+
+::: {#nte-my-marker2 .callout-note}
+## My heading
+:::
+
+See @nte-my-marker2.
