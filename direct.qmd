@@ -1,11 +1,13 @@
 ---
-title: Direct page with note
+title: Direct version of page with note
 ---
 
-## My header
+## My direct header {#sec-my-direct-section}
 
-::: {#nte-my-marker2 .callout-note}
-## My heading
+See @sec-my-direct-section
+
+::: {#nte-my-direct-note .callout-note}
+## My direct heading
 :::
 
-See @nte-my-marker2.
+See @nte-my-direct-note.

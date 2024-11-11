@@ -2,5 +2,6 @@ project:
   title: "My pages"
 
 filters:
-  - replacer_filter.py
+  - add_section_target.py
+  - add_callout_target.py
   - quarto

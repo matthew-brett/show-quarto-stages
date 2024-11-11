@@ -1,10 +1,13 @@
 ---
-title: "Filtered page that should have note"
+title: Filtered version of page with note
 ---
 
-## My header
+## My header mark-for-section-target
 
-::: {.callout-marker}
+See @sec-my-filtered-section
+
+::: {.callout-note}
+## My filtered heading
 :::
 
-See @nte-my-marker.
+See @nte-my-filtered-note.
