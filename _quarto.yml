@@ -2,6 +2,9 @@ project:
   title: "My pages"
 
 filters:
-  - add_section_target.py
-  - add_callout_target.py
-  - quarto
+  - at: pre-ast
+    path: show_markdown.py
+    type: json
+  - at: post-quarto
+    path: show_markdown.py
+    type: json
